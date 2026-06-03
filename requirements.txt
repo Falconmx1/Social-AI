@@ -1,5 +1,12 @@
 requests
 beautifulsoup4
-faker
+lxml
+python-dotenv
 colorama
 reportlab
+fpdf
+ollama
+gophish
+validators
+tldextract
+urllib3
